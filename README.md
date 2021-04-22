@@ -11,4 +11,4 @@ Student of CSE at VIT, Vellore.<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gaganmalvi&style=flat-square" alt="gmlvi" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gaganmalvi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats"/><br></p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaganmalvi&theme=dark"/></p>
+
